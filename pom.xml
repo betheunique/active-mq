@@ -63,6 +63,7 @@
             <version>5.14.3</version>
         </dependency>
 
+        <!-- Use when schedule ActiveMQ functionality is required, this is used by ActiveMQ message persistence internally -->
         <!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-kahadb-store -->
         <dependency>
             <groupId>org.apache.activemq</groupId>
